@@ -125,14 +125,6 @@ Key challenges include:
 
 ---
 
-## Project Outputs
-- `project4_genai_academia.png` → Visualization dashboard  
-- `project4_genai_academia.csv` → Forecast dataset  
-- `project4_segments.csv` → Segment risk analysis  
-- `project4_ai_tools.csv` → AI tools dataset  
-
----
-
 ## Author
 **Andre Townsend, MBA**  
 Data Analytics Portfolio  
