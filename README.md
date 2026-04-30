@@ -49,7 +49,7 @@ Key challenges include:
 
 ## Key Visualizations
 
-![Gen AI in Academia](project4_genai_academia.png)
+![Gen AI in Academia](AcademiaVisualization.png)
 
 ### Included Charts:
 - Language School Revenue vs AI Market Growth  
